@@ -1,4 +1,4 @@
-<img src="/img/Akali.gif">
+<img src="/img/Akali.gif" width="1280" height="180">
 
 ## Welcome to my Profile!
 ![Header](/img/LinkedIn%20Header.png)
