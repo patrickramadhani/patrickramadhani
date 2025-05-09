@@ -3,10 +3,8 @@
 ## Welcome to my Profile!
 ![Header](/img/LinkedIn%20Header.png)
 
-#### Contact Me!
+#### Contact Me! (Please right-click and open in new tab!)
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter)](https://skillicons.dev)
-
-<img src="/img/rainbow-line.gif">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrickr_460)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/PatricKRamadhani23011)
