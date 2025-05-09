@@ -1,14 +1,23 @@
-![Header](/img/LinkedIn%20Header.png)
+<img src="/img/Akali.gif">
+
 ## Welcome to my Profile!
-![Header2](/img/github-header-image-ran.png)
+![Header](/img/LinkedIn%20Header.png)
 
 #### Contact Me!
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter)](https://skillicons.dev)
-![https://www.instagram.com/patrickr_460/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.facebook.com/PatricKRamadhani23011](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.linkedin.com/in/patrick-ramadhani-252986180/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://x.com/Patrickr460](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://x.com/Patrickr460](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+<img src="/img/rainbow-line.gif">
+
+![https://www.instagram.com/patrickr_460](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.facebook.com/PatricKRamadhani23011](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) 
+![https://www.linkedin.com/in/patrick-ramadhani-252986180/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://x.com/Patrickr460](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://x.com/Patrickr460](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<img src="/img/rainbow-line.gif">
 
 #### Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,cpp,debian)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+
+<img src="/img/rainbow-line.gif">
+
 ##### Programming Languages:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -158,7 +167,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickramadhani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 
 <picture>
